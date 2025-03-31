@@ -4,7 +4,7 @@ import time
 import csv
 import random
 
-from selenium.webbdriver.common.by import By
+from selenium.driver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium_stealth import stealth
 from selenium import webdriver
